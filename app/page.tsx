@@ -64,7 +64,7 @@ export default function Home() {
             style={{ clipPath: "polygon(8% 0, 100% 0, 100% 100%, 0% 100%)" }}
           >
             <Image
-              src="/images/hero-burger.jpg"
+              src="/images/crunch-test.png"
               alt="Chrupiący kurczak burger z Bar Vegas"
               fill
               priority

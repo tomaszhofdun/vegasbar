@@ -18,11 +18,11 @@ export const menu: MenuCategory[] = [
     title: "Kurczak burgery",
     subtitle: "Chrupiąca panierka, soczysty środek",
     items: [
-      { name: "Kurczak-Burger Classic", desc: "Bułka, polędwiczka, autorski sos", price: "14,99" },
+      { name: "Kurczak-Burger Classic", desc: "Bułka, polędwiczka, autorski sos", price: "19,99" },
       {
         name: "Kurczak-Burger Vegas",
         desc: "Bułka, polędwiczka, cheddar, sałata lodowa, świeży ogórek, rukola, autorski sos",
-        price: "19,99",
+        price: "24,99",
       },
       {
         name: "Royal Vegas",
@@ -65,7 +65,7 @@ export const menu: MenuCategory[] = [
         desc: "Masło lub masło czosnkowe, pasta pomidorowa, farsz pieczarkowy, sos do wyboru",
         price: "15,00",
       },
-      { name: "Zapiekanka Salami", desc: "Jak klasyczna + salami", price: "17,00" },
+      { name: "Zapiekanka Salami", desc: "To samo co klasyczna + salami", price: "17,00" },
       { name: "Zapiekanka Serowa", desc: "Cheddar, mozzarella, rukola", price: "18,00" },
       { name: "Zapiekanka Rzeźnicka", desc: "Bekon, szynka, chorizo, salami", price: "20,00" },
       { name: "Zapiekanka z Warzywami", desc: "Cebula, pomidor, szczypiorek", price: "17,00" },
