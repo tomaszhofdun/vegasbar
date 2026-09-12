@@ -140,11 +140,10 @@ export default function Home() {
             </div>
             <div className="relative order-1 h-64 w-full sm:h-80 md:order-2">
               <Image
-                src="/images/hero-burger.jpg"
+                src="/images/spicy-vegas.jpg"
                 alt="Spicy Vegas burger"
                 fill
                 sizes="(min-width: 768px) 50vw, 100vw"
-                className="object-cover"
               />
               <span className="absolute -bottom-3 -right-3 rounded-sm bg-ember px-4 py-2 font-display text-cream">
                 29,99 zł
